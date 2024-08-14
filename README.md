@@ -6,4 +6,4 @@ To start locally:
 
 open terminal in client folder, run npm create vite, then React and normal Typescript
 
-then, do npm run dev to get your local host
+then, do npm run dev in client terminal for local host then npm run dev in server to connect mongodb
